@@ -6,7 +6,7 @@ This project is an Edge Detection Model that processes images to detect edges us
 
 ## 🌐 Demo
 
-Coming Soon...
+https://edge-detection-model-dgjwyxbkihkzsxzvad5bwf.streamlit.app/
 
 ## 🛠️ Technologies Used
 
