@@ -10,9 +10,10 @@ https://edge-detection-model-dgjwyxbkihkzsxzvad5bwf.streamlit.app/
 
 ## 🛠️ Technologies Used
 
-* Python
-* OpenCV
-* NumPy
+streamlit
+opencv-python-headless
+numpy
+pillow
 
 ## ⚙️ How to Run
 
